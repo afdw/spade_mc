@@ -82,7 +82,7 @@ Or, if you wish to run the client on a machine different from one where you are 
 ```bash
 _JAVA_OPTIONS=-Dspade_mc.url=http://rtx.local:8000/ ./gradlew runClient
 ```
-To start the game. After it loads up, you can select `Singleplayer`, `Create New World`, `Game Mode: Creative` and then `Create New World` again. You can start flying by double tapping `Space` and move around using `Space`, `Shift`, `W`, `A`, `S`, `D`.
+To start the game. After it loads up, you can select `Singleplayer`, `Create New World`, `Game Mode: Creative` and then `Create New World` again. To toggle rendering with SPADE press the grave key (\`) on your keyboard. You can start flying by double tapping `Space` and move around using `Space`, `Shift`, `W`, `A`, `S`, `D`.
 
 Credits
 ---
